@@ -1,4 +1,2 @@
 .venv/
-data/
-checkpoints/
 __pycache__/
