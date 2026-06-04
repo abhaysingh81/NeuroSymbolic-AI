@@ -1,0 +1,16 @@
+{
+  "model": "neural",
+  "csv_path": "data/train.csv",
+  "img_dir": "data/images",
+  "epochs": 60,
+  "lr": 0.0001,
+  "batch_size": 16,
+  "img_size": 224,
+  "ltn_lambda": 0.3,
+  "sat_p": 2.0,
+  "weight_decay": 0.0001,
+  "num_workers": 0,
+  "seed": 42,
+  "log_targets": true,
+  "ltn_warmup_epochs": 10
+}
